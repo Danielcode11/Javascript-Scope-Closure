@@ -1,0 +1,20 @@
+{
+  "name": "javascript-scope-closure",
+  "version": "1.0.0",
+  "description": "Curso de  manejo de Scopes Closures Global, Function y Block",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielcode11/Javascript-Scope-Closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielcode11/Javascript-Scope-Closure/issues"
+  },
+  "homepage": "https://github.com/Danielcode11/Javascript-Scope-Closure#readme"
+}
